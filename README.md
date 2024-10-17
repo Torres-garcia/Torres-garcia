@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on With the company 
 - 📫 How to reach me through this information in this CV, just get in touch and I will be active ...
 - 😄 Pronouns: (o)
-- ⚡ Fun fact: everything new in the virtual, technological world
+- ⚡ Fun fact: everything new in the virtual, technological world and programation
 
 <!---
 Torres-garcia/Torres-garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
